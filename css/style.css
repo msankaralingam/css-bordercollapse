@@ -1,0 +1,41 @@
+h1{
+     text-align:center;
+}
+p.dotted{
+    border-style:dotted;
+}
+p.dashed{
+    border-style:dashed;
+
+}
+p.solid{
+    border-style:solid;
+}
+p.groove{
+    border-style:groove;
+}
+
+p.double{
+    border-style:double;
+}
+p.dotted{
+    border-style:dotted;
+}
+p.outset{
+    border-style:outset;
+}
+p.inset{
+    border-style:inset;
+}
+p.none{
+    border-style:none;
+}
+p.hidden{
+    border-style:mix;
+}
+p.mix{
+    border-style:dotted solid double dashed;
+}
+
+
+
